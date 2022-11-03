@@ -26,5 +26,5 @@ npm run dev
 
 <img width="1440" alt="Screenshot 2022-11-03 at 6 06 06 PM" src="https://user-images.githubusercontent.com/69674721/199721892-88c6a776-840f-4240-a22b-38f7c59de021.png">
 
-<img width="1440" alt="Screenshot 2022-11-03 at 6 09 46 PM" src="https://user-images.githubusercontent.com/69674721/199722583-199f6e3e-5aea-494f-9e4f-42d10dac46a6.png">
+<img width="1440" alt="Screenshot 2022-11-03 at 6 11 50 PM" src="https://user-images.githubusercontent.com/69674721/199723030-97b5e6fd-290a-47c0-8662-64bd663d6cd9.png">
 
