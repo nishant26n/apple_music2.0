@@ -26,11 +26,11 @@ const DetailsHeader = ({ artistId, artistData, songData }) => (
         </p>
         {!artistId && (
           <Link to={`/artists/${songData?.artists[0]?.adamid}`}>
-            <p className="text-base text-gray-400 mt-2">{songData?.subtitle}</p>
+            <p className="text-base text-gray-200 mt-2">{songData?.subtitle}</p>
           </Link>
         )}
 
-        <p className="text-base text-gray-400 mt-2">
+        <p className="text-base text-gray-200 mt-2">
           {artistId
             ? artistData?.artists[artistId].attributes?.genreNames[0]
             : songData?.genres?.primary}
